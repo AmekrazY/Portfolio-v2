@@ -695,6 +695,7 @@ h3.my-profession{
     color: var(--skin-color);
     font-size: 19px;
     font-family: 'Montserrat', sans-serif;
+    margin-left: -6rem;
 }
 .button-debas img{
     width: 100px;
@@ -771,6 +772,7 @@ h3.my-profession{
     .bouton{
         margin-left: 2rem;
     }
+    
 
     .contact-info-item p{
        margin-right: -20rem;
