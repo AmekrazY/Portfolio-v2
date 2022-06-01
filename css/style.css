@@ -301,13 +301,13 @@ body.dark{
      margin: 15px 0;
  }
  h3.hello span{
-    font-family: 'Clicker+Script',cursive;
+    font-family: 'Montserrat',cursive;
     font-size: 30px;
     font-weight: 700;
     color: var(--skin-color);
 }
 h3.my-profession{
-    font-size: 30px;
+    font-size: 28px;
     margin: 15px 0;
 }
 .home-info p{
@@ -335,8 +335,8 @@ h3.my-profession{
     width: 80px;
     border-bottom: 10px solid var(--skin-color) ;
     border-right: 10px solid var(--skin-color) ;
-    right: 9px;
-    bottom: -15px;
+    right: 15px;
+    bottom: 11px;
 }
 .home-img::before{
     content: '';
@@ -345,7 +345,7 @@ h3.my-profession{
     width: 80px;
     border-top: 10px solid var(--skin-color) ;
     border-left: 10px solid var(--skin-color) ;
-    left: 0px;
+    left: 15px;
     top: -30px;
 }
  .home .home-img img{
@@ -688,7 +688,7 @@ h3.my-profession{
     margin-left: -5.6rem;
     
  }
- .button-debas{
+ /* .button-debas{
      margin-left: 54rem;
  }
  .button-debas p{
@@ -701,7 +701,7 @@ h3.my-profession{
     width: 100px;
     margin-left: 4rem;
     margin-top: 2rem;
-}
+} */
 .all{
     margin-left: 17rem;
 }
